@@ -95,7 +95,7 @@ The project uses an **LSTM-based dual-head neural network**:
 
 ## Distribution Plots
 
-![Distribution Plots](Distribution%20Plots(1).png)
+![Distribution Plots](distribution_plots.png)
 
 ---
 
@@ -103,7 +103,7 @@ The project uses an **LSTM-based dual-head neural network**:
 
 ## Live Prediction Interface
 
-![Gradio UI](gradio%20(UI)(2).png)
+![Gradio UI](gradio_ui.png)
 
 ---
 
